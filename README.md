@@ -1,2 +1,1 @@
-# gitSample
-sample repository
+test
